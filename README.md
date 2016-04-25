@@ -1,5 +1,3 @@
-# entomophagy.github.io
-
 # Goal
 Utilize IT for entomophagy
 
