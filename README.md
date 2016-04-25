@@ -1,7 +1,7 @@
 # entomophagy.github.io
 
 # Goal
-Utilize IT technology for entomophagy
+Utilize IT for entomophagy
 
 # Link
 * [entomophagy group on facebook](https://www.facebook.com/groups/entomophagy/)
